@@ -1,0 +1,13 @@
+{
+"companyName": "softHouseIsotech",
+"productName": "2D_Test001b",
+"dataUrl": "000.data.unityweb",
+"asmCodeUrl": "000.asm.code.unityweb",
+"asmMemoryUrl": "000.asm.memory.unityweb",
+"asmFrameworkUrl": "000.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
