@@ -1,0 +1,13 @@
+{
+"companyName": "softHouse Isotech",
+"productName": "escape",
+"dataUrl": "k004.data.unityweb",
+"asmCodeUrl": "k004.asm.code.unityweb",
+"asmMemoryUrl": "k004.asm.memory.unityweb",
+"asmFrameworkUrl": "k004.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
